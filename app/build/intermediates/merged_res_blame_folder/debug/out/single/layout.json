@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.app5eartquake.app-mergeDebugResources-30:/layout/eq_list_items.xml",
+        "source": "com.example.app5eartquake.app-main-33:/layout/eq_list_items.xml"
+    },
+    {
+        "merged": "com.example.app5eartquake.app-mergeDebugResources-30:/layout/activity_monitor.xml",
+        "source": "com.example.app5eartquake.app-main-33:/layout/activity_monitor.xml"
+    },
+    {
+        "merged": "com.example.app5eartquake.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.app5eartquake.app-main-33:/layout/activity_main.xml"
+    }
+]
